@@ -1,6 +1,5 @@
 #EXTM3U
 
-hola
 
 #EXTINF:-1 tvg-name="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN HD COL
 http://181.119.86.68:8000/play/b031/index.m3u8
