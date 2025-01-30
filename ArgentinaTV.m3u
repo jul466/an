@@ -606,6 +606,12 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10844
 #EXTINF:-1 tvg-name="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10845
 
+#EXTINF:-1 tvg-name="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
+http://189.127.167.71:8000/play/a04c
+
+#EXTINF:-1 tvg-name="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54468
+
 #EXTINF:-1 tvg-name="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
 http://181.209.114.13:8000/play/a05e/index.m3u8
 
@@ -615,11 +621,23 @@ http://190.60.37.115:8001/play/a08d/index.m3u8
 #EXTINF:-1 tvg-name="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
 http://181.78.82.6:46090/play/a00f/index.m3u8
 
+#EXTINF:-1 tvg-name="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
+http://181.78.82.6:46090/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-name="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/236
+
+#EXTINF:-1 tvg-name="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54452
+
 #EXTINF:-1 tvg-name="CinemaxLatinAmerica.us" tvg-name="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9633
 
 #EXTINF:-1 tvg-name="CinemaxLatinAmerica.us" tvg-name="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://181.209.114.13:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-name="CinemaxLatinAmerica.us" tvg-name="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54366
 
 #EXTINF:-1 tvg-name="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414473
@@ -642,6 +660,12 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414475
 #EXTINF:-1 tvg-name="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184681
 
+#EXTINF:-1 tvg-name="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
+http://191.52.214.5:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54449
+
 #EXTINF:-1 tvg-name="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://181.119.85.222:8000/play/a004/index.m3u8
 
@@ -653,6 +677,9 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10558
 
 #EXTINF:-1 tvg-name="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10559
+
+#EXTINF:-1 tvg-name="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54441
 
 #EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://181.209.114.13:8000/play/a02w/index.m3u8
@@ -672,7 +699,25 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10870
 #EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10871
 
-#EXTINF:-1 tvg-name="FX CHILE.cl" tvg-name="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://190.242.41.219:9000/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/202
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/203
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/204
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/205
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54470
+
+#EXTINF:-1 tvg-name="Space.mx" tvg-name="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://181.119.85.222:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-name="FX CHILE.cl" tvg-name="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
@@ -683,6 +728,9 @@ http://181.119.86.68:8000/play/c006/index.m3u8
 
 #EXTINF:-1 tvg-name="FX CHILE.cl" tvg-name="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184623
+
+#EXTINF:-1 tvg-name="FX CHILE.cl" tvg-name="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54444
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
 http://181.78.109.49:8000/play/a017/index.m3u8f
@@ -786,6 +834,15 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/197619
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-name="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513194
 
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-name="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/232
+
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-name="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/233
+
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-name="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/234
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="Cine", TNT Series
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414476
 
@@ -794,6 +851,9 @@ http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184685
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="Cine", TNT Series
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513189
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="Cine", TNT Series
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54450
 
 #EXTINF:-1 tvg-name="ParamountNetworkPanregional.us" tvg-name="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://181.209.114.13:8000/play/a02y/index.m3u8
@@ -809,6 +869,9 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10867
 
 #EXTINF:-1 tvg-name="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
 http://181.209.114.13:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-name="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54469
 
 #EXTINF:-1 tvg-name="AandE MUNDO" tvg-name="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414453
@@ -855,6 +918,9 @@ http://181.119.86.68:8000/play/c023/index.m3u8
 #EXTINF:-1 tvg-name="SONY" tvg-name="SONY" tvg-logo="https://telecentro.com.ar/img/cm/channels/sony.png" group-title="Cine", Sony
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184659
 
+#EXTINF:-1 tvg-name="SONY" tvg-name="SONY" tvg-logo="https://telecentro.com.ar/img/cm/channels/sony.png" group-title="Cine", Sony
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54451
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_radio_one.jpg" group-title="Radio", Radio One 103.7 
 https://one.stweb.tv/one/live/playlist.m3u8
 
@@ -873,8 +939,23 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
 http://tecnozone.site:8880/LuiArce/LuisArc23/2373
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/769
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/789
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/792
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/250509
+
 #EXTINF:0 tvg-name="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Series Animadas",Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 tvg-name="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Series Animadas",Bob Esponja
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/690
 
 #EXTINF:0 tvg-name="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Series Animadas",Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
@@ -884,6 +965,15 @@ http://181.13.173.86:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-name="TN" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
 http://181.209.114.13:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-name="TN" tvg-name="TN" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61564
+
+#EXTINF:-1 tvg-name="TN" tvg-name="TN" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61565
+
+#EXTINF:-1 tvg-name="TN" tvg-name="TN" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/16397
 
 #EXTINF:-1 tvg-name="LANACION+" tvg-name="LaNacion" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" group-title="Noticias", La Nación+
 http://181.209.114.13:8000/play/a01s/index.m3u8
@@ -897,14 +987,23 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="ELTRECE" tvg-name="El Trece" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
 http://181.209.114.13:8000/play/a06d/index.m3u8
 
+#EXTINF:-1 tvg-name="ELTRECE" tvg-name="El Trece" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/15905
+
 #EXTINF:-1 tvg-name="TELEFE" tvg-name="Telefe" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="Noticias", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-name="TELEFE" tvg-name="Telefe" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="Noticias", Telefe
 http://181.209.114.13:8000/play/a06c/index.m3u8
 
+#EXTINF:-1 tvg-name="TELEFE" tvg-name="Telefe" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="Noticias", Telefe
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/53226
+
 #EXTINF:-1 tvg-name="A24" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias", A24
 http://181.209.114.13:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-name="A24" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias", A24
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/15813
 
 #EXTINF:-1 tvg-name="C5N" tvg-name="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
@@ -915,6 +1014,15 @@ http://181.13.173.86:8000/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-name="ELNUEVE" tvg-name="ElNueve" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" group-title="Noticias", El Nueve
 http://181.209.114.13:8000/play/a04h/index.m3u8
 
+#EXTINF:-1 tvg-name="ELNUEVE" tvg-name="ElNueve" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" group-title="Noticias", El Nueve
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/15881
+
+#EXTINF:-1 tvg-name="ELNUEVE" tvg-name="ElNueve" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" group-title="Noticias", El Nueve
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61568
+
+#EXTINF:-1 tvg-name="ELNUEVE" tvg-name="ElNueve" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" group-title="Noticias", El Nueve
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61569
+
 #EXTINF:-1 tvg-name="CANAL26" tvg-name="Canal 26" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" group-title="Noticias", Canal 26
 http://181.13.173.86:8000/play/a01r/index.m3u8
 
@@ -924,9 +1032,14 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-name="CRONICA" tvg-name="Cronica" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias", Cronica
 http://181.209.114.13:8000/play/a01q/index.m3u8
 
+#EXTINF:-1 tvg-name="CRONICA" tvg-name="Cronica" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias", Cronica
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61563
+
 #EXTINF:-1 tvg-name="TVP" tvg-name="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
 http://181.13.173.86:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-name="TVP" tvg-name="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
 http://181.209.114.13:8000/play/a056/index.m3u8
 
+#EXTINF:-1 tvg-name="TVP" tvg-name="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
+http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61567
