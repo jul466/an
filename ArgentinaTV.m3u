@@ -348,10 +348,10 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10920
 #EXTINF:-1 tvg-name="TYC" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports HD
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155679
 
-#EXTINF:-1 tvg-name="TNTSPORTSAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports HD
+#EXTINF:-1 tvg-name="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports HD
 http://home-playtv.com:8080/GerardoFallas/HFVGD/211363
 
-#EXTINF:-1 tvg-name="TNTSPORTSAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports HD
+#EXTINF:-1 tvg-name="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports HD
 http://home-playtv.com:8080/GerardoFallas/HFVGD/36424
 
 #EXTINF:-1 tvg-name="DAZNLL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/512px-DAZN_LaLiga_2023_Logo.svg.png" group-title="Deportes",DAZN LA LIGA 1
