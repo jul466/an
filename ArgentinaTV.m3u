@@ -336,13 +336,13 @@ http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/7a7ec094-b32c-48dc-9db7-115
 #EXTINF:-1 tvg-id="DAZN1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN 1
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/60354
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest?cb=20230901145219" group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-id="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportes",DAZN 2
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/12362
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest?cb=20230901145219" group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-id="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="Deportes",DAZN 2
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/60359
 
-#EXTINF:-1 tvg-id="DAZN3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DAZN_3_2024.svg/revision/latest?cb=20240713212252" group-title="Deportes",DAZN 3
+#EXTINF:-1 tvg-id="DAZN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Deportes",DAZN 3
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/60361
 
 #EXTINF:-1 tvg-id=M+LALIGA1" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA
@@ -456,7 +456,7 @@ http://higherpro.xyz:8080/931374389tv/a38ax3vc94/60304
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Deportes", Sky Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="NBAUSA" group-title="Deportes" tvg-logo="https://www.pngegg.com/es/png-wgzlf" ,NBA
+#EXTINF:-1 tvg-id="NBAUSA" group-title="Deportes" tvg-logo="https://w7.pngwing.com/pngs/292/377/png-transparent-nba-logo-2017u201318-nba-season-los-angeles-lakers-brooklyn-nets-logo-basketball-nba-background-blue-text-trademark-thumbnail.png" ,NBA
 http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/131
 
 #EXTINF:-1 tvg-id="DAZNF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="Deportes", DAZN F1
