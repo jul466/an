@@ -879,10 +879,10 @@ http://higherpro.xyz:8080/931374389tv/a38ax3vc94/61565
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/16397
 
-#EXTINF:-1 tvg-id="LN+" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" group-title="Noticias", La Nación+
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" group-title="Noticias", LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", América
+#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
 http://181.209.114.13:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
