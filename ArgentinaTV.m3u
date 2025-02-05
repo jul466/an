@@ -40,16 +40,10 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/151114
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/504
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
-http://190.60.49.243:4000/play/a06q
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://181.209.114.13:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/510
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
-http://190.60.49.244:4000/play/a06q
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/506
@@ -68,9 +62,6 @@ http://200.59.188.3:8000/play/a013
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
 http://home-playtv.com:8080/GerardoFallas/HFVGD/518963
-
-#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
-http://190.60.49.244:4000/play/a070
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/452
@@ -148,9 +139,6 @@ http://higherpro.xyz:8080/931374389tv/a38ax3vc94/528
 http://190.60.32.178:8178/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6
-http://190.60.49.244:4000/play/a071
-
-#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/150661
 
 #EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes", ESPN 7
@@ -176,9 +164,6 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/158506
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
 http://home-playtv.com:8080/GerardoFallas/HFVGD/456660
-
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
-http://starfamily.vip:8080/JhoanObando/BAYPPFhBy7EF/604228
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/19
@@ -232,9 +217,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/253254
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/22901
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/124525
-
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/288102
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
@@ -248,9 +230,6 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/19652
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/22894
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/22897
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://181.13.173.86:8000/play/a02t/index.m3u8
@@ -268,9 +247,6 @@ http://starfamily.vip:8080/JhoanObando/BAYPPFhBy7EF/607625
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/199511
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/25279
-
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10920
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
@@ -278,12 +254,6 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/454718
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4945
-
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/125863
-
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148455
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148456
@@ -499,9 +469,6 @@ http://higherpro.xyz:8080/931374389tv/a38ax3vc94/60352
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145481
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="Deportes", UFC Fight Pass
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145481
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="Deportes", UFC Fight Pass
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/20374
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="Deportes", UFC Fight Pass
@@ -573,9 +540,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31015
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/43190
 
-#EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/164036
-
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-id="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
 http://181.209.114.13:8000/play/a05e/index.m3u8
 
@@ -598,16 +562,7 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31026
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9633
 
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/67
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/164034
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3725
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/31014
 
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://181.209.114.13:8000/play/a04s/index.m3u8
@@ -635,9 +590,6 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414475
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184681
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
-http://191.52.214.5:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54449
@@ -718,15 +670,6 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31020
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184634
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440731
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440736
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440985
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4961
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
@@ -734,9 +677,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4962
-
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440825
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414462
@@ -755,12 +695,6 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9680
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184641
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/197110
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440986
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4963
@@ -820,9 +754,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4965
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7970
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513212
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135677
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
@@ -880,9 +811,6 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414476
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184685
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="Cine", TNT Series
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513189
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="Cine", TNT Series
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/54450
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
@@ -917,9 +845,6 @@ http://181.209.114.13:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/184589
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/31035
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://181.119.86.68:8000/play/c016/index.m3u8
@@ -962,9 +887,6 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/i6Rq2GrHFjCaiAK1-eeF3rvvNobEu7tAB06h_vNSq8psgJFhtaLnO48wgqLrQkwCI0C5qWT7TQ=s900-c-k-c0x00ffffff-no-rj" group-title="Radio", Pop 101.5 
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/21/b3/21b35378-846d-49dd-a085-630d23b25a86.jpeg" group-title="Radio", Radio Disney 94.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1200px-The_Simpsons_yellow_logo.svg.png" group-title="Series Animadas", Los Simpsons 
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
