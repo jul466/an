@@ -1,13 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://higherpro.xyz:8080/931374389tv/a38ax3vc94/518
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/151113
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
 http://higherpro.xyz:8080/931374389tv/a38ax3vc94/522
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/151113
 
 #EXTINF:-1 tvg-id="ESPNCL" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CL
 http://190.25.157.67:8000/play/a05d
@@ -257,9 +254,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4945
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148456
-
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://home-playtv.com:8080/GerardoFallas/HFVGD/211363
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://home-playtv.com:8080/GerardoFallas/HFVGD/36424
