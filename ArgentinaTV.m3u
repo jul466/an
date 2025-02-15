@@ -127,13 +127,7 @@ http://190.102.246.93:9005/play/a019
 http://181.209.114.13:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167727
-
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
-http://179.63.36.2:8000/play/a0ko/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
@@ -217,9 +211,6 @@ http://zuiowy.net:8080/cucaesputo/putoescuca/1280
 http://zuiowy.net:8080/cucaesputo/putoescuca/1272
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
-http://181.209.114.13:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
@@ -256,9 +247,6 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://38.180.133.31:8000/play/a0t2/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://home-playtv.com:8080/GerardoFallas/HFVGD/36424
 
 #EXTINF:-1 tvg-id="DAZNLALIGA2" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="Deportes",DAZN LA LIGA 2
@@ -267,23 +255,11 @@ http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/6d40dbab-ac84-44a3-b2a7-948
 #EXTINF:-1 tvg-id="DAZN1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN 1
 http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/7a7ec094-b32c-48dc-9db7-115e3acedeb4.m3u
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN 1
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/768094
-
-#EXTINF:-1 tvg-id="DAZN1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN 1
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/768095
-
 #EXTINF:-1 tvg-id=M+LALIGA1" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA
 http://home-playtv.com:8080/GerardoFallas/HFVGD/203781
 
 #EXTINF:-1 tvg-id=M+LALIGA2" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA 2
 http://home-playtv.com:8080/GerardoFallas/HFVGD/209707
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Deportes", Sky Sports La Liga
-http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="NBAUSA" group-title="Deportes" tvg-logo="https://w7.pngwing.com/pngs/292/377/png-transparent-nba-logo-2017u201318-nba-season-los-angeles-lakers-brooklyn-nets-logo-basketball-nba-background-blue-text-trademark-thumbnail.png" ,NBA
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/131
 
 #EXTINF:-1 tvg-id="DAZNF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="Deportes", DAZN F1
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/278205
