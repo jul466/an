@@ -244,9 +244,6 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10844
 http://181.209.114.13:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-id="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
-http://190.60.37.115:8001/play/a08d/index.m3u8
-
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-id="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31027
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-id="WarnerChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Cine", Warner
@@ -255,17 +252,11 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/31026
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9633
 
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-http://181.209.114.13:8000/play/a04s/index.m3u8
-
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://181.209.114.13:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://190.60.37.115:8001/play/a0bw/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155176
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT MX
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/164030
@@ -280,16 +271,10 @@ http://181.209.114.13:8000/play/a079/index.m3u8
 http://181.209.114.13:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10870
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10871
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://181.119.85.222:8000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/31021
+
+#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
+http://181.119.85.222:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://181.119.86.68:8000/play/b002/index.m3u8
@@ -354,7 +339,7 @@ http://181.209.114.13:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10866
 
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC NO FUNCIONA
 http://181.209.114.13:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
