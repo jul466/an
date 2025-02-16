@@ -55,9 +55,6 @@ http://45.181.122.201:8081/play/a00q
 http://zuiowy.net:8080/cucaesputo/putoescuca/1265
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
-http://45.5.151.151:8000/play/a0hx/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
 http://181.209.114.13:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
@@ -509,9 +506,6 @@ http://zuiowy.net:8080/cucaesputo/putoescuca/135844
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
 http://zuiowy.net:8080/cucaesputo/putoescuca/132911
-
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/b8/d0/f4/b8d0f4076816c52e2b0e23ca8d3b540d.jpg" group-title="Cine", Cine DC
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/31246
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://181.209.114.13:8000/play/a02y/index.m3u8
