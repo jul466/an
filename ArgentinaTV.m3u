@@ -207,12 +207,6 @@ http://181.209.114.13:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZNLALIGA2" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="Deportes",DAZN LA LIGA 2
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/6d40dbab-ac84-44a3-b2a7-9480c4af1dc4.m3u
-
-#EXTINF:-1 tvg-id="DAZN1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="Deportes",DAZN 1
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/7a7ec094-b32c-48dc-9db7-115e3acedeb4.m3u
-
 #EXTINF:-1 tvg-id=M+LALIGA1" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA
 http://home-playtv.com:8080/GerardoFallas/HFVGD/203781
 
@@ -409,9 +403,6 @@ http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
 https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
-http://138.0.228.250:44380/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
 http://zuiowy.net:8080/cucaesputo/putoescuca/3382
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
@@ -553,9 +544,6 @@ http://190.0.241.181:8000/play/a08u/index.m3u8
 http://200.37.199.140:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
-http://181.78.106.127:9000/play/ca080/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/6713
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
@@ -572,9 +560,6 @@ http://181.209.114.13:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://181.119.86.68:8000/play/c013/index.m3u8
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://181.13.173.86:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/184589
