@@ -16,9 +16,6 @@ http://200.37.199.140:8000/play/a03d/index.m3u8
 http://181.119.86.68:8000/play/b031/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CO
-http://190.60.37.115:8001/play/a0h6/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CO
 http://190.0.241.181:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
@@ -109,9 +106,6 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/374656
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://zuiowy.net:8080/cucaesputo/putoescuca/150660
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
 http://181.119.85.222:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
@@ -125,9 +119,6 @@ http://190.0.241.181:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
 http://200.37.199.140:8000/play/a06m/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/150660
 
 #EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6
 http://190.60.32.178:8178/play/a0aa/index.m3u8
@@ -168,12 +159,6 @@ http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1284
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
 http://181.13.173.86:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
-http://zuiowy.net:8080/cucaesputo/putoescuca/1280
-
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
-http://zuiowy.net:8080/cucaesputo/putoescuca/1272
-
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
 
@@ -200,18 +185,6 @@ http://181.209.114.13:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
-
-#EXTINF:-1 tvg-id=M+LALIGA1" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA
-http://home-playtv.com:8080/GerardoFallas/HFVGD/203781
-
-#EXTINF:-1 tvg-id=M+LALIGA2" tvg-logo="https://assets.laliga.com/assets/public/logospage/pressroom/laliga/LL_RGB_h_color.png" group-title="Deportes", M+ LA LIGA 2
-http://home-playtv.com:8080/GerardoFallas/HFVGD/209707
-
-#EXTINF:-1 tvg-id="DAZNF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="Deportes", DAZN F1
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/278205
-
-#EXTINF:-1 group-title="Eventos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png",M+ LIGA DE CAMPEONES 5 HD
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/768293
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://181.209.114.13:8000/play/a07b/index.m3u8
@@ -290,9 +263,6 @@ http://190.0.241.181:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://200.37.199.140:8000/play/a080/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
-http://zuiowy.net:8080/cucaesputo/putoescuca/73512
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://zuiowy.net:8080/cucaesputo/putoescuca/3393
@@ -456,9 +426,6 @@ http://170.254.18.106/HBO_SIG/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature@2x.png" group-title="Cine", HBO Signature
 https://streamer1.nexgen.bz/HBO_SIG/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature@2x.png" group-title="Cine", HBO Signature
-http://zuiowy.net:8080/cucaesputo/putoescuca/3383
-
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
 http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
 
@@ -500,9 +467,6 @@ http://zuiowy.net:8080/cucaesputo/putoescuca/3413
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
 http://zuiowy.net:8080/cucaesputo/putoescuca/135844
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
-http://zuiowy.net:8080/cucaesputo/putoescuca/132911
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://181.209.114.13:8000/play/a02y/index.m3u8
@@ -560,9 +524,6 @@ http://190.60.37.115:8001/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://181.119.85.222:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://zuiowy.net:8080/cucaesputo/putoescuca/2566
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://zuiowy.net:8080/cucaesputo/putoescuca/2565
