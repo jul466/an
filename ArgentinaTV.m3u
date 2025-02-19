@@ -127,9 +127,6 @@ http://190.60.37.115:8001/play/a0hh/index.m3u8
 http://200.37.199.140:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
-http://zuiowy.net:8080/cucaesputo/putoescuca/1282
-
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
 http://home-playtv.com:8080/GerardoFallas/HFVGD/158506
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT +
@@ -269,9 +266,6 @@ http://181.13.173.86:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://181.78.78.66:8000/play/a028
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://45.181.122.46:8090/play/a00h
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://190.60.37.115:8001/play/a0dc/index.m3u8
