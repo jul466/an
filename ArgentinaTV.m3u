@@ -112,9 +112,6 @@ http://190.60.37.115:8001/play/a0by/index.m3u8
 http://200.37.199.140:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_7_logo.svg" group-title="Deportes", ESPN 7
-http://190.60.37.115:8001/play/a0hh/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_7_logo.svg" group-title="Deportes", ESPN 7
 http://200.37.199.140:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
@@ -343,9 +340,6 @@ http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
 https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-http://181.78.106.127:9000/play/ca069/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
 http://200.92.227.238:8000/play/a0mu/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
@@ -421,9 +415,6 @@ http://181.119.86.68:8000/play/c013/index.m3u8
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/184589
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://190.60.37.115:8001/play/a0fj/index.m3u8
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://181.119.85.222:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
@@ -434,9 +425,6 @@ http://181.119.86.68:8000/play/c016/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
-http://190.60.37.115:8001/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://200.37.199.140:8000/play/a07u/index.m3u8
