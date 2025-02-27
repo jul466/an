@@ -312,12 +312,6 @@ https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
 http://200.92.227.238:8000/play/a0mu/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135677
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7971
-
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="Cine", HBO Mundi
 http://170.254.18.106/HBO_MUNDI/tracks-v1a2/mono.m3u8
 
@@ -461,9 +455,6 @@ http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" group-title="Noticias", Canal 26
 http://181.13.173.86:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias", Cronica
-http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias", Cronica
 http://181.209.114.13:8000/play/a01q/index.m3u8
