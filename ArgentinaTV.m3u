@@ -105,9 +105,6 @@ http://181.209.114.13:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://181.13.173.86:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10920
-
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.209.114.13:8000/play/a02u/index.m3u8
 
@@ -116,9 +113,6 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://181.209.114.13:8000/play/a07b/index.m3u8
-
-#EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
-http://170.254.18.106/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://190.60.37.115:8001/play/a0dd/index.m3u8
@@ -143,12 +137,6 @@ http://200.37.199.140:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9633
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-http://170.254.18.106/CINEMAX/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine", Cinemax
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://181.209.114.13:8000/play/a07d/index.m3u8
@@ -240,38 +228,14 @@ http://181.119.86.68:8000/play/b002/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
-http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Cine", HBO 2
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
-
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine", HBO Family
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
-http://170.254.18.106/HBO_PLUS/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9685
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
-http://170.254.18.106/HBO_FAMILY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
-http://170.254.18.106/HBO_POP/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
-https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
 http://181.143.230.202:8000/play/a02p/index.m3u8
@@ -284,21 +248,6 @@ http://200.59.188.3:8000/play/a00m
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
 http://45.71.37.194:8010/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature@2x.png" group-title="Cine", HBO Signature
-http://170.254.18.106/HBO_SIG/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature@2x.png" group-title="Cine", HBO Signature
-https://streamer1.nexgen.bz/HBO_SIG/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
-https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="Cine", HBO Mundi
-http://170.254.18.106/HBO_MUNDI/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
 http://181.119.85.222:8000/play/a01x/index.m3u8
@@ -365,9 +314,6 @@ http://181.119.85.222:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://181.119.86.68:8000/play/c016/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
-https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://200.37.199.140:8000/play/a07u/index.m3u8
