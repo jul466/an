@@ -106,9 +106,6 @@ http://181.209.114.13:8000/play/a02s/index.m3u8
 http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://181.209.114.13:8000/play/a02u/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
@@ -176,9 +173,6 @@ http://200.37.199.140:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://181.209.114.13:8000/play/a079/index.m3u8
-
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
-http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/184664
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://190.83.2.172:8081/play/a05a
@@ -331,9 +325,6 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
-http://fortv.cc:8080/Py5zFZ/363334/164873
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
 http://fortv.cc:8080/90820916/64752029/164873
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
@@ -362,9 +353,6 @@ http://181.209.114.13:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N
-http://fortv.cc:8080/90820916/64752029/164876
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N
 http://fortv.cc:8080/Py5zFZ/363334/164876
