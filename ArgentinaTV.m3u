@@ -265,9 +265,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/144
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
@@ -282,7 +279,7 @@ http://200.59.188.3:8000/play/a00m
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
 http://45.71.37.194:8010/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Cine", HBO Xtreme NO FUNCIONA
 http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/156
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
