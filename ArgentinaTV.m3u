@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://181.13.173.86:8000/play/a0af/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
-http://8.242.176.45:1013/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://200.37.199.140:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://38.187.11.149:8000/play/a087
-
 #EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
 http://45.173.72.26:2072/play/a098
 
@@ -26,6 +14,21 @@ http://45.4.1.202:8000/play/a0nc/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CO P
 http://191.97.9.130:18000/play/a0h7
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
+http://181.13.173.86:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
+http://8.242.176.45:1013/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
+http://200.37.199.140:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
+http://38.187.11.149:8000/play/a087
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
+http://38.44.109.41:8003/play/a00v
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/374650
@@ -147,6 +150,9 @@ http://181.13.173.86:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
+#EXTINF:-1 group-title="DAZNLL" language="Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s",DAZN La iga
+http://181.78.106.127:9000/play/ca027/index.m3u8
+
 #EXTINF:-1 tvg-id="CINECANAL" tvg-id="CINECANAL" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Cine", Cinecanal
 http://181.209.114.13:8000/play/a07b/index.m3u8
 
@@ -248,9 +254,6 @@ http://200.37.199.140:8000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://181.209.114.13:8000/play/a02v/index.m3u8
-
-#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
-http://181.119.85.222:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://181.119.86.68:8000/play/b002/index.m3u8
