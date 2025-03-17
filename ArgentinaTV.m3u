@@ -18,15 +18,6 @@ http://191.97.9.130:18000/play/a0h7
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
-http://8.242.176.45:1013/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://200.37.199.140:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
-http://38.187.11.149:8000/play/a087
-
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://38.44.109.41:8003/play/a00v
 
@@ -310,9 +301,6 @@ http://200.125.170.120:8000/play/a060
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/184655
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
-http://45.190.187.105:58092/play/a06d
-
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://190.60.37.115:8001/play/a0dx/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
@@ -323,9 +311,6 @@ http://200.37.199.140:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
 http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/184592
-
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="Cine", AMC
-http://45.190.187.105:58092/play/a06l
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://181.209.114.13:8000/play/a05i/index.m3u8
@@ -374,9 +359,6 @@ http://181.209.114.13:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
-http://181.209.114.13:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="Noticias", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
