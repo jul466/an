@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
 http://45.173.72.26:2072/play/a098
 
-#EXTINF:-1 tvg-id="ESPNCL" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CL
-http://45.169.163.129:8000/play/a05q
+#EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
+http://190.217.142.157:8000/play/a02d  
 
-#EXTINF:-1 tvg-id="ESPNCL" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CL
-http://190.217.142.157:8000/play/a02d
-
-#EXTINF:-1 tvg-id="ESPNCL" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CL
+#EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
 http://45.4.1.202:8000/play/a0nc/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CO P
+#EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PE
 http://191.97.9.130:18000/play/a0h7
+
+#EXTINF:-1 tvg-id="ESPNCO" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN CO
+http://45.169.163.129:8000/play/a05q
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
@@ -22,16 +22,10 @@ http://181.13.173.86:8000/play/a0af/index.m3u8
 http://38.44.109.41:8003/play/a00v
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
-http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/374650
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://181.209.114.13:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://8.242.176.45:1013/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
-http://190.60.37.115:8001/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://200.37.199.140:8000/play/a035/index.m3u8
@@ -74,30 +68,6 @@ http://181.209.114.13:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://tvlatino.club:2082/24meswilmervip/nxa4QDG9kPN3/374656
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://181.119.85.222:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://8.242.176.45:1013/play/a02z/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://190.60.37.115:8001/play/a0eo/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ABESHs2GVCXTBIb1wXdkgjNf10JyBcI1w&s" group-title="Deportes", ESPN 5
-http://200.37.199.140:8000/play/a06m/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6
-http://190.61.42.218:9000/play/a05p
-
-#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6
-http://200.37.199.140:8000/play/a03l/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_7_logo.svg" group-title="Deportes", ESPN 7
-http://200.37.199.140:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DIRECTV SPORT
 http://38.199.6.1:17001/play/a0d0/index.m3u8
