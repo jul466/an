@@ -10,6 +10,9 @@ http://191.97.9.130:18000/play/a0h7
 http://45.169.163.129:8000/play/a05q
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
+http://181.209.95.29:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPE" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="Deportes", ESPN PROBAR
@@ -23,6 +26,9 @@ http://181.209.114.13:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
 http://200.37.199.140:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes", ESPN 2
+http://181.209.95.29:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Deportes", ESPN 3
 http://192.141.98.142:8000/play/a05q
@@ -42,6 +48,9 @@ http://200.37.199.140:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
+http://181.209.95.29:8000/play/a078/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DirecTV Sports
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
@@ -55,9 +64,6 @@ http://177.53.155.236:8000/play/a0co/index.m3u8
 http://190.234.242.31:8000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
-http://181.209.114.13:8000/play/a07j/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
 http://181.13.173.86:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
@@ -67,9 +73,6 @@ http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=User-Agent%3A
 http://181.13.173.86:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
-http://186.148.196.82:8001/play/a00o
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
 http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Connection%3Akeep-alive&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F/wind/premium788/mono.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
@@ -77,6 +80,9 @@ http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://181.209.114.13:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
+http://186.148.196.82:8001/play/a00o
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=Connection%3Akeep-alive/wind/premium789/mono.m3u8
@@ -94,7 +100,7 @@ http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.koskoros.ru&h=Referer%3Ahtt
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://vipgpno.top:8080/VIP014261736340874295/7ee3b738750e/4815
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.koskoros.ru&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Connection%3Akeep-alive&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3/ddy6/premium388/mono.m3u8
@@ -286,13 +292,10 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
-http://fortv.cc:8080/90820916/64752029/164873
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
 http://181.209.114.13:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+http://181.209.95.29:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" group-title="Noticias", LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
@@ -315,12 +318,6 @@ http://181.209.114.13:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias", A24
 http://181.209.114.13:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias", A24 
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N 
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" group-title="Noticias", C5N
 http://fortv.cc:8080/Py5zFZ/363334/164876
 
@@ -332,12 +329,6 @@ http://181.209.114.13:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" group-title="Noticias", El Nueve
 http://fortv.cc:8080/90820916/64752029/164869
-
-#EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" group-title="Noticias", Canal 26
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias", Cronica
-https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
 http://181.13.173.86:8000/play/a0aq/index.m3u8
