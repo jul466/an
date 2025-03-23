@@ -66,14 +66,8 @@ http://190.234.242.31:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
 http://181.13.173.86:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=Connection%3Akeep-alive/wind/premium787/mono.m3u8
-
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Connection%3Akeep-alive&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F/wind/premium788/mono.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://181.13.173.86:8000/play/a02t/index.m3u8
@@ -95,9 +89,6 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.koskoros.ru&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Connection%3Akeep-alive&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3/ddy6/premium388/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZNLL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="Deportes", DAZN La Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
