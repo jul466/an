@@ -84,17 +84,11 @@ http://181.209.114.13:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://186.148.196.82:8001/play/a00o
 
-#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.koskoros.ru&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=Connection%3Akeep-alive/wind/premium789/mono.m3u8
-
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://181.209.114.13:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
 http://181.13.173.86:8000/play/a02s/index.m3u8
-
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="Deportes", TyC Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.koskoros.ru&h=Referer%3Ahttps%3A%2F%2Fdokoplay.xyz%2F&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Origin%3Ahttps%3A%2F%2Fdokoplay.xyz&h=Connection%3Akeep-alive/ddy6/premium746/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
@@ -281,15 +275,6 @@ http://200.37.199.140:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://181.209.114.13:8000/play/a05f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_radio_one.jpg" group-title="Radio", Radio One 103.7 
-https://one.stweb.tv/one/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-Lf1MI3PTNuuvbdxFG6MfaU4nM1SG02xoQ&s" group-title="Radio", La 100 99.9 
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/i6Rq2GrHFjCaiAK1-eeF3rvvNobEu7tAB06h_vNSq8psgJFhtaLnO48wgqLrQkwCI0C5qWT7TQ=s900-c-k-c0x00ffffff-no-rj" group-title="Radio", Pop 101.5 
-https://popradio.stweb.tv/popradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias", TN
 http://181.209.114.13:8000/play/a058/index.m3u8
