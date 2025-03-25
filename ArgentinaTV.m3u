@@ -265,9 +265,6 @@ http://181.209.95.29:8000/play/a0a6/index.m3u8
 http://181.209.114.13:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
-http://45.172.16.186:9981/stream/channelid/1222416263?profile=pass
-
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
 https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" group-title="Noticias", El Trece
@@ -296,6 +293,3 @@ http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
 http://181.13.173.86:8000/play/a0aq/index.m3u8
-
-#EXTINF:-1 tvg-id="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
-http://181.209.114.13:8000/play/a056/index.m3u8
