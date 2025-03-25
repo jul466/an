@@ -130,9 +130,6 @@ http://190.60.37.115:8001/play/a0bw/index.m3u8
 http://190.61.42.218:9000/play/a060
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
-http://8.242.176.45:1013/play/a014/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://190.0.241.181:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
@@ -143,9 +140,6 @@ http://181.119.85.222:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://181.119.86.68:8000/play/b014/index.m3u8
-
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
-http://8.242.176.45:1013/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://190.60.37.115:8001/play/a0fx/index.m3u8
@@ -176,12 +170,6 @@ http://200.37.199.140:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://200.59.188.3:8000/play/a00j
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://8.242.176.45:1013/play/a076/index.m3u8
-
-#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
-http://8.242.176.45:1013/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://190.60.37.115:8001/play/a0ep/index.m3u8
