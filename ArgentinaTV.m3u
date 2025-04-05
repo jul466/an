@@ -127,13 +127,7 @@ http://181.13.173.86:8000/play/a02w/index.m3u8
 http://181.78.78.66:8000/play/a028
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://190.60.37.115:8001/play/a0dc/index.m3u8
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
 http://200.37.199.140:8000/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-id="Space.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Cine", Space
-http://200.59.188.3:8000/play/a00j
 
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://190.60.37.115:8001/play/a0ep/index.m3u8
@@ -144,44 +138,23 @@ http://200.37.199.140:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
 http://181.209.114.13:8000/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-id="FX CHILE.cl" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Cine", FX
-http://181.119.86.68:8000/play/b002/index.m3u8
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" group-title="Cine", HBO
 http://190.60.37.115:8001/play/a0df/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Cine", HBO Plus Dual Audio
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
 http://190.60.37.115:8001/play/a08i/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
-http://200.59.188.3:8000/play/a00m
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Cine", HBO Pop
-http://45.71.37.194:8010/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
-http://181.119.85.222:8000/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
-http://181.119.86.68:8000/play/c026/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
 http://181.209.114.13:8000/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-id="Universal" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Cine", Universal
-http://181.119.85.222:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://181.209.114.13:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://181.78.106.127:9000/play/ca082/index.m3u8
-
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
-http://190.60.37.115:8001/play/a0dx/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" group-title="Cine", Paramount Network
 http://190.0.241.181:8000/play/a08u/index.m3u8
@@ -191,18 +164,6 @@ http://200.37.199.140:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
 http://181.209.114.13:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://181.119.86.68:8000/play/c013/index.m3u8
-
-#EXTINF:-1 tvg-id="AandE MUNDO" tvg-id="AandE MUNDO" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Cine", A&E
-http://181.119.85.222:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
-http://181.119.85.222:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
-http://181.119.86.68:8000/play/c016/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-id="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Cine", AXN
 http://200.37.199.140:8000/play/a07u/index.m3u8
