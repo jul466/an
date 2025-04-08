@@ -34,6 +34,9 @@ http://200.37.199.140:8000/play/a06d/index.m3u8
 http://181.209.95.29:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9549
+
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DirecTV Sports
@@ -41,6 +44,9 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DirecTV Sports
 http://177.53.155.236:8000/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADHtMGtbV6SrPh8yLOlm3DBZhnJEP3nuOMw&s" group-title="Deportes", DirecTV Sports
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9560
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes", Fox Sports
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9577
@@ -50,6 +56,12 @@ http://181.13.173.86:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes", Fox Sports 2 NO F
 http://181.13.173.86:8000/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9588
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9589
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes", Fox Sports 3
 http://181.13.173.86:8000/play/a02t/index.m3u8
