@@ -123,11 +123,14 @@ http://190.0.241.181:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="Cine", TNT
 http://200.37.199.140:8000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
-http://200.37.199.140:8000/play/a07c/index.m3u8
-
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://181.209.114.13:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
+http://181.119.85.222:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
+http://200.37.199.140:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-id="StarChannel.mx" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="Cine", Star Channel
 http://190.83.2.172:8081/play/a05a
@@ -233,4 +236,3 @@ http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="Noticias", TVP
 http://181.13.173.86:8000/play/a0aq/index.m3u8
-
