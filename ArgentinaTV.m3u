@@ -111,16 +111,16 @@ http://200.59.188.3:8000/play/a00h
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://200.37.199.140:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntc.png" group-title="Cine", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://181.209.114.13:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntc.png" group-title="Cine", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://190.60.37.115:8001/play/a0bw/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntc.png" group-title="Cine", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://190.0.241.181:8000/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntc.png" group-title="Cine", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://200.37.199.140:8000/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
