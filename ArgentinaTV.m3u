@@ -4,9 +4,6 @@
 http://45.173.72.26:2072/play/a098
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
-http://181.209.95.29:8000/play/a0ab/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
@@ -14,6 +11,9 @@ http://200.37.199.140:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
 http://181.209.114.13:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN (HTTP Undefined Error)
+http://181.209.95.29:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
 http://200.37.199.140:8000/play/a035/index.m3u8
@@ -24,7 +24,7 @@ http://38.44.109.41:8003/play/a00v
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
 http://181.209.114.13:8000/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2 (HTTP Undefined Error)
 http://181.209.95.29:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
@@ -40,9 +40,6 @@ http://190.0.241.181:8000/play/a08t/index.m3u8
 http://200.37.199.140:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
-http://181.209.95.29:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
 http://181.13.173.86:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
@@ -50,6 +47,9 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9549
+
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium (HTTP Undefined Error)
+http://181.209.95.29:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
@@ -63,17 +63,11 @@ http://181.13.173.86:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
 http://181.209.114.13:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.newkso.ru&h=Referer%3Ahttps%3A%2F%2Fwebxzplay.cfd%2F&h=Connection%3Akeep-alive&h=Origin%3Ahttps%3A%2F%2Fwebxzplay.cfd&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3/wind/premium787/mono.m3u8
-
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
 http://181.209.114.13:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fwindnew.newkso.ru&h=Connection%3Akeep-alive&h=Origin%3Ahttps%3A%2F%2Fwebxzplay.cfd&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Referer%3Ahttps%3A%2F%2Fwebxzplay.cfd%2F/wind/premium788/mono.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
 http://181.13.173.86:8000/play/a02t/index.m3u8
@@ -90,14 +84,8 @@ http://181.13.173.86:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://181.209.114.13:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.newkso.ru&h=Origin%3Ahttps%3A%2F%2Fwebxzplay.cfd&h=Connection%3Akeep-alive&h=Referer%3Ahttps%3A%2F%2Fwebxzplay.cfd%2F&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3/ddy6/premium746/mono.m3u8
-
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
 http://181.13.173.86:8000/play/a02u/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fddy6new.newkso.ru&h=Origin%3Ahttps%3A%2F%2Fwebxzplay.cfd&h=Referer%3Ahttps%3A%2F%2Fwebxzplay.cfd%2F&h=User-Agent%3AMozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F58.0.3029.110+Safari%2F537.3&h=Connection%3Akeep-alive/ddy6/premium388/mono.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
 http://181.209.114.13:8000/play/a07b/index.m3u8
@@ -107,12 +95,6 @@ http://190.60.37.115:8001/play/a0dd/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
 http://200.37.199.140:8000/play/a06c/index.m3u8
-
-#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinemax.png" group-title="Cine", Cinemax NO F
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://181.209.114.13:8000/play/a05e/index.m3u8
@@ -125,9 +107,6 @@ http://190.60.37.115:8001/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://200.59.188.3:8000/play/a00h
-
-#EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
-https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://200.37.199.140:8000/play/a031/index.m3u8
@@ -148,16 +127,13 @@ http://200.37.199.140:8000/play/a080/index.m3u8
 http://181.209.114.13:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
-http://181.119.85.222:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://200.37.199.140:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://190.83.2.172:8081/play/a05a
+
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel (HTTP Undefined Error)
+http://181.119.85.222:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/space.png" group-title="Cine", Space
 http://181.209.114.13:8000/play/a02w/index.m3u8
@@ -180,20 +156,11 @@ http://200.37.199.140:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/fx.png" group-title="Cine", FX
 http://181.209.114.13:8000/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/fx.png" group-title="Cine", FX
-https://is-tucuman.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo.png" group-title="Cine", HBO
 http://190.60.37.115:8001/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo.png" group-title="Cine", HBO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo.png" group-title="Cine", HBO
 http://181.189.244.253:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
@@ -222,12 +189,6 @@ http://190.0.241.181:8000/play/a08u/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://200.37.199.140:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
-https://is-tucuman.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
-https://is-tucuman.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://181.209.114.13:8000/play/a05i/index.m3u8
 
@@ -240,14 +201,11 @@ http://181.209.114.13:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 http://181.209.114.13:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN (HTTP Undefined Error)
 http://181.209.95.29:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f81a97e813d30ec61c53bf.m3u8
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-https://is-tucuman.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f86f098d4666c5caa7c057.m3u8
@@ -257,9 +215,6 @@ http://181.209.114.13:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
-https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -277,13 +232,7 @@ http://181.209.114.13:8000/play/a06c/index.m3u8
 http://181.209.114.13:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
-https://is-tucuman.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/680259f0756141c24a3a2bad.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
-https://is-tucuman.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f6ea766344ffb763c0ee45.m3u8
@@ -302,12 +251,6 @@ http://181.209.114.13:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://fortv.cc:8080/90820916/64752029/164869
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26
-https://is-tucuman.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 http://181.13.173.86:8000/play/a0aq/index.m3u8
