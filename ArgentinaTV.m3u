@@ -227,6 +227,3 @@ http://181.13.173.86:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="España", TVE La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
