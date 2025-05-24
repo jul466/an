@@ -195,6 +195,9 @@ http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f81a97e813d30ec61
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84860
 
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/19bce569-75d1-4efe-b0f8-e8b45edc98e5:SCL/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u8
+
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7942
 
@@ -203,6 +206,9 @@ http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f86f098d4666c5caa
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+ (360p)
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/dc3ea066-e68a-402c-b057-33d82866d163:SCL/master.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
@@ -263,6 +269,3 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84850
 
 #EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7932
-
-#EXTINF:-1 tvg-id="IPNOTICIAS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/ipnoticias.png" group-title="Noticias", IP Noticias
-https://sae12.playlist.ttvnw.net/v1/playlist/CqsGZBRLXpVa0aPW8bnRSxIYxavho09SIPUuT3pwFHBbV05JYwsR9epUAMioas1nqZqBmiP7EyIXazVz1FcVgSoPBO-ewFPl8HVYkRIg2lLjqZYP1_-cCW3_L0mQQ6hPMnOZ8IGX6oDE67zwpl_HZvXUumZD86u20sY0dMFBwl0Yez8pbq5Q7N4T63MGJI1m9DxUeEoWSAnhpMSGxiewI9HpmW9-5qtCrL9f9qhds5qkK6SbxPfuxZrjNF-t2V6D4Xf7QX68PdnVeG0vYtjWwrrmLB6_pWTu9M0SIvx-2w_cwiO_bgvAWp4hm2SNl1q_DMGiXgaGsxcnOVdBxoxoaG8dxTxp9Ae9xvX-mmCxr7QBGSfSBdkRGpqj2Y7ycXWS8UiuOCOy5IA4JKlLvJtjVdeZl7Gpno00R8X3eQ1hOJvBlpq0HIxUwzESeUGfMK0TPmSCUUcNe8HvjSMv6_r6UqYoEXXLhvQz-QVJsfgaGexzyoq5vbpylR2jmdyJ_cToXieJeTiCnui5GXSL1LsHYblohTPBPjlOdFpepjCTX50XKeKeT6n4B8XL4jjHmiwppoD6mtUGJLnkCfucRsbgcPsBfJ5ExNVPfz8vKKClR2_1YvHKpkuoYlTeIz8EMgapChRWZKrGlOxTxhM7-OcpyA-BtOPVu1sI7MZv6RDKNcgjOFMAyCKc0jWQT9aIJMKIIJQMBLpgmU7XexYiH0ODk4OcCLkFlo274mTxRR8Vyqo28kTJQJz3hd-3SgKSCgsAPjoxJaM8wHc29h74Wr0DCqdslVhHoYPC1lLclECZBJngwSTGqhUPLHEtIJ8RXp1G5lzo8IrpK-BMTA4-6jXzubFFvdOsba9itj9eYQIs0lHx8Wj_t87jV9aDDwLFqg3xfGXTjX6XSSofygDwdoVJ_he3_lveQGJq1s3PZm0W3T7JZ-vajPBvqldYGAtmljCiR6tnALHC3qTGPuI0ddLOydc4IvCZMm4ttNzLDdMh2x_gLgPtpQFYwstafs7hiIEkQoNd7aBBCO_UGoPAdhPHqlw-H8SZYLS1A6hOyXQFvreT-v81czlVtn5voPi1tRoMoKiyKGx4hpOv52DGIAEqCXVzLWVhc3QtMjCrDA.m3u8
