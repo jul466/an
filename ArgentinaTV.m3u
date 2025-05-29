@@ -120,7 +120,7 @@ http://190.216.158.199:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://181.209.114.13:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntc.png" group-title="Cine", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://45.235.37.254/tnthd/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
