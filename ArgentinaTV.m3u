@@ -166,9 +166,6 @@ http://38.44.109.41:8003/play/a03k/index.m3u8
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9668
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
-http://177.234.230.206:8011/play/a0ew/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9672
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
