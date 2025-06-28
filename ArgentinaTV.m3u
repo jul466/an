@@ -33,9 +33,6 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9549
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9575
 
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports NO FUNCIONA
-http://181.209.114.13:8000/play/a07j/index.m3u8
-
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9581
 
@@ -48,7 +45,7 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7956
 
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports NO FUNCIONA
 http://190.216.158.199:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
@@ -62,9 +59,6 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9904
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
 http://38.44.109.41:8003/play/a03a/index.m3u8
-
-#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal ING/ESP
-http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal ING/ESP
 http://200.229.147.142:8000/play/a03g/index.m3u8
@@ -89,6 +83,9 @@ http://190.216.158.199:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://45.235.37.254/tnthd/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
+http://190.216.158.199:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://190.83.2.172:8081/play/a05a
@@ -141,14 +138,8 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9668
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9672
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9674
-
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
-http://200.229.147.142:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbofamily.png" group-title="Cine", HBO Family
 http://181.189.244.253:8000/play/a01b/index.m3u8
@@ -168,10 +159,10 @@ http://190.102.246.93:9005/play/a05b
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9690
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO XTREME
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
 http://200.229.147.142:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO XTREME
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
 http://190.102.246.93:9005/play/a010
 
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
@@ -190,9 +181,6 @@ http://45.235.37.254/universalhd/index.m3u8
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9753
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
-http://200.229.147.142:8000/play/a04x/index.m3u8
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9705
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
@@ -204,7 +192,7 @@ http://200.229.147.142:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
 http://38.44.109.41:8003/play/a02a/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E NO FUNCIONA
 http://200.229.147.142:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
@@ -220,22 +208,13 @@ http://38.44.109.41:8003/play/a031/index.m3u8
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7949
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f81a97e813d30ec61c53bf.m3u8
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84860
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7942
 
-#EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
-http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f86f098d4666c5caa7c057.m3u8
-
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
+#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America NO FUNCIONA
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -249,29 +228,20 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7945
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24 NO FUNCIONA
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/680259f0756141c24a3a2bad.m3u8
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N NO FUNCIONA
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f6ea766344ffb763c0ee45.m3u8
 
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica NO FUNCIONA
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
-http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/68025a64756141c24a3a2bae.m3u8
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84855
-
-#EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
-https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7952
@@ -281,9 +251,3 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84850
 
 #EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7932
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/simpsons.png" group-title="Simpsons", Los Simpsons
-https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/simpsons.png" group-title="Simpsons", Los Simpsons
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
