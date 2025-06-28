@@ -19,9 +19,6 @@ http://45.235.37.254/espn2hd/index.m3u8
 http://38.44.109.41:8003/play/a00v
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
-http://181.209.114.13:8000/play/a05b/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
 http://45.235.37.254/espn3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
@@ -31,31 +28,19 @@ http://190.102.246.93:9005/play/a02l
 http://200.37.199.140:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
-http://181.209.114.13:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9549
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9575
 
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports NO FUNCIONA
 http://181.209.114.13:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9581
 
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
-http://181.209.114.13:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
-http://181.209.114.13:8000/play/a02t/index.m3u8
-
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
 http://186.148.196.82:8001/play/a00o
-
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
-http://181.209.114.13:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -94,9 +79,6 @@ http://38.44.109.41:8003/play/a023/index.m3u8
 http://45.235.37.254/warnerhd/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
-http://181.209.114.13:8000/play/a05e/index.m3u8
-
-#EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://200.59.188.3:8000/play/a00h
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
@@ -104,9 +86,6 @@ http://200.229.147.142:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://190.216.158.199:8000/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
-http://181.209.114.13:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://45.235.37.254/tnthd/index.m3u8
@@ -124,9 +103,6 @@ http://200.229.147.142:8000/play/a03d/index.m3u8
 http://38.44.109.41:8003/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/space.png" group-title="Cine", Space
-http://181.209.114.13:8000/play/a02w/index.m3u8
-
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/space.png" group-title="Cine", Space
 http://38.44.109.41:8003/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/space.png" group-title="Cine", Space
@@ -137,9 +113,6 @@ http://45.235.37.254/spacehd/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/space.png" group-title="Cine", Space
 http://190.216.158.199:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/fx.png" group-title="Cine", FX
-http://181.209.114.13:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/fx.png" group-title="Cine", FX
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9652
@@ -211,16 +184,10 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9692
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9694
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
-http://181.209.114.13:8000/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
 http://45.235.37.254/universalhd/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9753
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
-http://181.209.114.13:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://200.229.147.142:8000/play/a04x/index.m3u8
@@ -238,13 +205,7 @@ http://200.229.147.142:8000/play/a01y/index.m3u8
 http://38.44.109.41:8003/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
-http://181.209.114.13:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://200.229.147.142:8000/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
-http://181.209.114.13:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
 http://45.235.37.254/axnhd/index.m3u8
@@ -254,9 +215,6 @@ http://200.229.147.142:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
 http://38.44.109.41:8003/play/a031/index.m3u8
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-http://181.209.114.13:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7949
@@ -272,9 +230,6 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7942
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/67f86f098d4666c5caa7c057.m3u8
-
-#EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
-http://181.209.114.13:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
@@ -294,12 +249,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7945
 
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
-http://181.209.114.13:8000/play/a06c/index.m3u8
-
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
-http://181.209.114.13:8000/play/a01o/index.m3u8
-
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/680259f0756141c24a3a2bad.m3u8
 
@@ -314,9 +263,6 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
 http://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/68025a64756141c24a3a2bae.m3u8
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-http://181.209.114.13:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://fortv.cc:8080/90820916/64752029/164869
