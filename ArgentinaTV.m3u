@@ -321,16 +321,16 @@ https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f6ea766344ffb763c0ee
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c1739831e8c34d57a9132.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67fdb8ec613f446caa5987bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c16d84b5a9e572f3b01c2.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68025a64756141c24a3a2bae.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="", Cronica
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
