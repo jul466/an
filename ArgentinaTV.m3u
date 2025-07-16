@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN COL
-#EXTGENRE: Deportes
+#EXTGENRE:Deportes
 http://190.217.23.56:1010/play/a0ee/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN COL
