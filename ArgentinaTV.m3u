@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
-#EXTGENRE: Deportes
-http://45.235.37.254/espnhd/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN COL
+#EXTGENRE: Deportes
 http://190.217.23.56:1010/play/a0ee/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN COL
@@ -18,9 +15,6 @@ http://200.60.124.19:29000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
 http://45.173.229.190:8083/play/a0k7/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
-http://45.235.37.254/espn2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
 http://200.60.124.19:29000/play/a0g1/index.m3u8
@@ -101,13 +95,7 @@ http://38.44.109.41:8003/play/a03a/index.m3u8
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681505d88cf97102856b2d6e.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinemax.png" group-title="Cine", Cinemax
-http://45.235.37.254/cinemaxhd/index.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinemax.png" group-title="Cine", Cinemax
 http://38.44.109.41:8003/play/a023/index.m3u8
-
-#EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
-http://45.235.37.254/warnerhd/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
 http://200.59.188.3:8000/play/a00h
@@ -132,9 +120,6 @@ https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681505fa66dcc0d698447c
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://190.83.2.172:8081/play/a05a
-
-#EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
-http://45.235.37.254/starhd/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://200.229.147.142:8000/play/a03d/index.m3u8
@@ -255,9 +240,6 @@ http://200.229.147.142:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68154ac4b0511451c3f76b1c.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
-http://45.235.37.254/axnhd/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
 http://200.229.147.142:8000/play/a027/index.m3u8
