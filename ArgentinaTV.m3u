@@ -51,8 +51,8 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7956
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports NO FUNCIONA
-http://190.216.158.199:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
+http://143.0.67.75:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
