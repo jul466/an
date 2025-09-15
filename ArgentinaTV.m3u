@@ -168,9 +168,6 @@ https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f81a97e813d30ec61c53
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c0cb0a94eb1ec02fa3cd8.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7949
-
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f86f098d4666c5caa7c057.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
@@ -230,12 +227,6 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681aefee626edc70d7214ca9.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-http://fortv.cc:8080/90820916/64752029/164869
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/84855
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68123d80fc32c725356b0d38.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
