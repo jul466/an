@@ -165,9 +165,6 @@ http://38.44.109.41:8003/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f81a97e813d30ec61c53bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c0cb0a94eb1ec02fa3cd8.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f86f098d4666c5caa7c057.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
@@ -183,17 +180,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681021e85bda46552a55a1d7.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/6841f6b111fbedde326558b7.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c1ab23bbf9ad223ff3fbd.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7945
@@ -201,38 +189,17 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7945
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f86f2f8d4666c5caa7c058.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c13536ff979ea8d29581d.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/684345947ffebda16d033e2e.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f6ea766344ffb763c0ee45.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c1739831e8c34d57a9132.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67fdb8ec613f446caa5987bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/685c16d84b5a9e572f3b01c2.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68025a64756141c24a3a2bae.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681aefee626edc70d7214ca9.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68123d80fc32c725356b0d38.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68702d82918acec9aa22aff1.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7952
