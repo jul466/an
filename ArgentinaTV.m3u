@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN COL
-http://190.216.158.199:8000/play/a02l/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
 http://45.173.229.190:8083/play/a0k7/index.m3u8
 
@@ -18,7 +15,7 @@ http://190.102.246.93:9005/play/a02l
 #EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn4.png" group-title="Deportes", ESPN 4
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/68150a2a66dcc0d698447cd6.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium NO FUNCIONA
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9549
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
@@ -39,7 +36,7 @@ http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7956
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
 http://143.0.67.75:8000/play/a0bc/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS NO FUNCIONA
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports2.png" group-title="Deportes", DSPORTS 2 NO FUNCIONA
