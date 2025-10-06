@@ -190,13 +190,16 @@ http://200.229.147.142:8000/play/a01x/index.m3u8
 http://38.44.109.41:8003/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f81a97e813d30ec61c53bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
+https://www.youtube.com/todonoticias/live
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7942
 
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/6802493d756141c24a3a2bab.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
+https://www.youtube.com/@lanacion/live
+
+#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America YT GEOBLOCKED
+https://www.youtube.com/@americaenvivo/live
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -204,20 +207,26 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
+https://www.youtube.com/@eltrece/live
+
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
+https://www.youtube.com/@Telefenoticias/live
+
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f86f2f8d4666c5caa7c058.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
+https://www.youtube.com/@A24com/live
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
 https://www.youtube.com/@c5n/live
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67fdb8ec613f446caa5987bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
+http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7935
+https://www.youtube.com/@cronicatv/live
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681aefee626edc70d7214ca9.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
@@ -225,5 +234,8 @@ https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/681aefee626edc70d7214c
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7952
 
-#EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26 NO FUNCIONA
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/7932
+#EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
+https://www.youtube.com/@TVPublicaArgentina/live
+
+#EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26 
+https://www.youtube.com/@canal26/live
