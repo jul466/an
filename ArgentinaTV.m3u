@@ -211,7 +211,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f86f2f8d4666c5caa7c058.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
-https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67f6ea766344ffb763c0ee45.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
+https://www.youtube.com/@c5n/live
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://api.m3use.projectmoose.xyz/m3u/jul466/ArgentinaTV/67fdb8ec613f446caa5987bf.m3u8?uid=jul466&pkey=GMU4dKpZ&PlaylistM3UCL
