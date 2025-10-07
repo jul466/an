@@ -198,20 +198,32 @@ http://190.102.246.93:9005/play/a010
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
 http://181.188.216.5:18000/play/a0p1/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi NO FUNCIONA
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9682
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi NO FUNCIONA
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature NO FUNCIONA
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9694
 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature NO FUNCIONA
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278505.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
+http://201.230.137.204:8000/play/a0hv/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
+http://181.188.216.5:18000/play/a0o6/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal NO FUNCIONA
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9753
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
+http://181.188.216.5:18000/play/a0h5/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
+http://181.188.216.5:18000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount NO FUNCIONA
 http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9705
@@ -222,11 +234,23 @@ http://200.229.147.142:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
 http://38.44.109.41:8003/play/a02a/index.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
+http://38.44.109.41:8003/play/a02a/index.m3u8
+
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://200.229.147.142:8000/play/a01x/index.m3u8
 
+#EXTINF:-1 group-title="-",A&E HD
+http://181.188.216.5:18000/play/a0cv/index.m3u8
+
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
 http://38.44.109.41:8003/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
+http://201.230.137.204:8000/play/a0ir/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
+http://181.188.216.5:18000/play/a0oq/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 https://www.youtube.com/todonoticias/live
