@@ -237,7 +237,7 @@ http://38.44.109.41:8003/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://200.229.147.142:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 group-title="-",A&E HD
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://181.188.216.5:18000/play/a0cv/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/axn.png" group-title="Cine", AXN
