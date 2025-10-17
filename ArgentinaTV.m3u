@@ -171,9 +171,6 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278505.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
 http://201.230.137.204:8000/play/a0hv/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
-http://181.188.216.5:18000/play/a0o6/index.m3u8
-
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://181.188.216.5:18000/play/a0h5/index.m3u8?PlaylistM3UCL
 
