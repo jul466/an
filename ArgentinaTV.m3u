@@ -1,7 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
-http://181.64.186.85:8001/play/a0o5/index.m3u8
+http://200.80.230.123:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
+http://190.104.67.128:234/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
+http://190.104.67.229:234/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
+http://200.80.230.123:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
+http://148.222.228.3:9000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn2.png" group-title="Deportes", ESPN 2
 http://190.108.80.138:8000/play/a0fk/index.m3u8
@@ -24,23 +36,56 @@ http://181.188.216.5:18000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn4.png" group-title="Deportes", ESPN 4
 http://190.108.80.138:8000/play/a0h0/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn4.png" group-title="Deportes", ESPN 4
+http://200.80.230.123:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
+http://200.80.230.123:8000/play/a078/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium NO ARG
 http://181.66.249.246:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9575
+http://201.217.246.177:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
+http://200.60.124.19:29000/play/a0j9/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
+http://200.80.230.123:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9581
+http://201.217.246.177:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports2.png" group-title="Deportes", Fox Sports 2
+http://200.60.124.19:29000/play/a0m5/index.m3u8
+
 #EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
-http://186.148.196.82:8001/play/a00o
+http://201.217.246.177:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
+http://200.60.124.19:29000/play/a0ku/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports3.png" group-title="Deportes", Fox Sports 3
+http://200.80.230.123:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
+http://201.217.246.177:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
+http://181.13.252.102:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
+http://200.60.124.19:29000/play/a0kv/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
+http://200.80.230.123:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
 http://143.0.67.75:8000/play/a0bc/index.m3u8
@@ -51,11 +96,17 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+http://172.93.102.112:8989/279390_.m3u8
+
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports2.png" group-title="Deportes", DSPORTS 2
+http://38.252.213.17:8000/play/a08c
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
 http://200.229.147.142:8000/play/a03g/index.m3u8
