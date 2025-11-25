@@ -27,9 +27,6 @@ http://200.80.230.123:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium
 http://200.80.230.123:8000/play/a078/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espnpremium.png" group-title="Deportes", ESPN Premium NO ARG
-http://181.66.249.246:8000/play/a05e/index.m3u8
-
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/foxsports.png" group-title="Deportes", Fox Sports
 http://201.217.246.177:8000/play/a07j/index.m3u8
 
