@@ -54,6 +54,9 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports PROBAR
+http://143.0.67.75:8000/play/a0bc/index.m3u8
+
 #EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
 http://200.80.230.123:8000/play/a0bk/index.m3u8
 
