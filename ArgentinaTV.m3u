@@ -19,6 +19,9 @@ http://200.80.230.123:8000/play/a0ac/index.m3u8
 http://148.222.228.3:9000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
+http://200.80.230.123:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
 http://201.217.246.177:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn3.png" group-title="Deportes", ESPN 3
@@ -67,16 +70,19 @@ http://181.13.252.102:8000/play/a02s/index.m3u8
 http://200.80.230.123:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
-http://217.26.190.76:8888/play/a0jb/index.m3u8
+http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
-http://38.199.6.1:17001/play/a0vx/index.m3u8
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/cinecanal.png" group-title="Cine", Cinecanal
 http://200.80.230.123:8000/play/a07b/index.m3u8
@@ -102,11 +108,17 @@ http://181.78.82.6:46090/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner ING/ESP
 http://200.229.147.142:8000/play/a03e/index.m3u8
 
+#EXTINF:-1 tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/warner.png" group-title="Cine", Warner
+http://playtv44.com:8080/hsandoval758/123456/78396
+
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://138.121.114.86:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
 http://38.44.109.41:8003/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tnt.png" group-title="Cine", TNT
+http://playtv44.com:8080/hsandoval758/123456/78398
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/star.png" group-title="Cine", Star Channel
 http://200.80.230.123:8000/play/a079/index.m3u8
@@ -139,6 +151,9 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
 http://200.229.147.142:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/9672
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
@@ -166,13 +181,19 @@ http://200.229.147.142:8000/play/a00t/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278505.m3u8
+http://201.217.246.177:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature
+http://200.80.230.123:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
 http://201.230.137.204:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
 http://200.80.230.123:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/universalchannel.png" group-title="Cine", Universal
+http://playtv44.com:8080/976515597/123456/12347
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://200.80.230.123:8000/play/a02y/index.m3u8
@@ -182,6 +203,9 @@ http://38.44.109.41:8003/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
+http://200.80.230.123:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/a%26e.png" group-title="Cine", A&E
 http://200.229.147.142:8000/play/a01x/index.m3u8
@@ -202,6 +226,9 @@ http://201.217.246.177:8000/play/a058/index.m3u8
 http://200.80.230.123:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
+http://190.104.67.230:234/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png" group-title="Noticias", TN
 https://www.youtube.com/todonoticias/live
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png" group-title="Noticias", LN+
@@ -217,13 +244,13 @@ http://200.80.230.123:8000/play/a0a7/index.m3u8
 https://www.youtube.com/@americaenvivo/live
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
-
-#EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 http://143.0.67.75:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
 http://200.80.230.123:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png" group-title="Noticias", El Trece
+http://201.217.246.177:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
 http://201.217.246.177:8000/play/a06c/index.m3u8
@@ -235,6 +262,9 @@ https://www.youtube.com/@Telefenoticias/live
 http://200.80.230.123:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
+http://200.80.230.125:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
 https://www.youtube.com/@A24com/live
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png" group-title="Noticias", C5N
@@ -244,13 +274,22 @@ http://200.80.230.123:8000/play/a01p/index.m3u8
 https://www.youtube.com/@c5n/live
 
 #EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
+http://201.217.246.177:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronicatv.png" group-title="Noticias", Cronica
 https://www.youtube.com/@cronicatv/live
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://200.80.230.123:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
+http://190.104.67.230:234/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="ELNUEVE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal9.png" group-title="Noticias", El Nueve
 http://181.13.112.203:8100/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
+http://200.80.230.123:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png" group-title="Noticias", TVP
 http://201.217.246.177:8000/play/a056/index.m3u8
@@ -260,6 +299,9 @@ https://www.youtube.com/@TVPublicaArgentina/live
 
 #EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26 
 http://200.80.230.123:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26 
+http://45.5.151.62:8000/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL26" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/canal26.png" group-title="Noticias", Canal 26 
 https://www.youtube.com/@canal26/live
