@@ -346,10 +346,16 @@ http://200.80.230.123:8000/play/a06d/index.m3u8
 http://201.217.246.177:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
-http://201.217.246.177:8000/play/a06c/index.m3u8
+http://190.104.67.69:234/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
-https://www.youtube.com/@Telefenoticias/live
+http://181.198.105.69:8111/play/a1ez/index.m3u8
+
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
+http://190.104.67.170:234/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/telefe.png" group-title="Noticias", Telefe
+http://201.217.246.177:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png" group-title="Noticias", A24
 http://200.80.230.123:8000/play/a01o/index.m3u8
