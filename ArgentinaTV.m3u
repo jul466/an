@@ -294,6 +294,12 @@ http://181.224.255.214:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/paramount.png" group-title="Cine", Paramount
 http://190.102.139.189:8000/play/a010/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntseries.png" group-title="Cine", TNT Series
+http://179.51.136.19:8000/play/a1al/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/tntseries.png" group-title="Cine", TNT Series
+http://179.51.136.19:8000/play/a1a3/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/amc.png" group-title="Cine", AMC
 http://38.44.109.41:8003/play/a02a/index.m3u8
 
