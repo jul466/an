@@ -192,6 +192,9 @@ http://209.45.81.84:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo.png" group-title="Cine", HBO
 http://181.224.255.210:8001/play/a0f161/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO
+http://190.108.89.228:8000/play/a0b2/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbo2.png" group-title="Cine", HBO 2
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/9672
 
@@ -206,9 +209,6 @@ http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
 http://200.60.97.100:28888/play/a02r/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboplus.png" group-title="Cine", HBO Plus
-http://190.108.89.228:8000/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbofamily.png" group-title="Cine", HBO Family
 http://181.189.244.253:8000/play/a01b/index.m3u8
@@ -228,10 +228,10 @@ http://190.60.37.115:8001/play/a0ww/index.m3u8
 #EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop
 http://45.160.12.200:8008/play/128/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop ING/ESP
+#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop
 http://148.222.228.3:9000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop ING/ESP
+#EXTINF:-1 tvg-id="HBOPOP" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbopop.png" group-title="Cine", HBO Pop
 http://209.45.81.84:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
@@ -243,16 +243,16 @@ http://45.184.87.142:8000/play/a04l
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
 http://38.199.6.1:17001/play/a06j/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme ING/ESP
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hboxtreme.png" group-title="Cine", HBO Xtreme
 http://209.45.81.84:8000/play/a04g/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi ING/ESP
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
 http://45.166.72.87:8000/play/a0pn/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi ING/ESP
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
 http://177.234.230.206:8011/play/a0lq/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi ING/ESP
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbomundi.png" group-title="Cine", HBO Mundi
 http://179.1.240.202:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Cine/hbosignature.png" group-title="Cine", HBO Signature
