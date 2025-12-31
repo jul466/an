@@ -87,7 +87,7 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Deportes/tycsports.png" group-title="Deportes", TyC Sports
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Deportes/tntsportspremium.png" group-title="Deportes", TNT Sports
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Deportes/tntsports.png" group-title="Deportes", TNT Sports
 http://200.80.230.123:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Deportes/dsports.png" group-title="Deportes", DSPORTS
@@ -267,13 +267,13 @@ http://38.199.6.1:17001/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/hbosignature.png" group-title="Cine", HBO Signature
 http://38.188.100.18:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universalchannel.png" group-title="Cine", Universal
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universal.png" group-title="Cine", Universal
 http://201.230.137.204:8000/play/a0hv/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universalchannel.png" group-title="Cine", Universal
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universal.png" group-title="Cine", Universal
 http://200.80.230.123:8000/play/a0af/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universalchannel.png" group-title="Cine", Universal
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/universal.png" group-title="Cine", Universal
 http://playtv44.com:8080/976515597/123456/12347
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Cine/paramount.png" group-title="Cine", Paramount
@@ -342,7 +342,7 @@ http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Argentina/lanacionmas.png" group-title="Noticias", LN+
 https://www.youtube.com/@lanacion/live
 
-#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias", America YT GEOBLOCKED
+#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Argentina/america.png" group-title="Noticias", America
 https://www.youtube.com/@americaenvivo/live
 
 #EXTINF:-1 tvg-id="ELTRECE" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/LogosStr/Argentina/eltrece.png" group-title="Noticias", El Trece
