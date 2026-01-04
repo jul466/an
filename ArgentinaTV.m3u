@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
-http://200.80.230.123:8000/play/a0ab/index.m3u8
+http://190.104.67.128:234/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
-http://190.104.67.128:234/play/a099/index.m3u8
+http://200.80.230.123:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/espn.png" group-title="Deportes", ESPN
 http://190.104.67.229:234/play/a099/index.m3u8
